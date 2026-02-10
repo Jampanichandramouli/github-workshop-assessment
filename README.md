@@ -1,4 +1,4 @@
 # github-workshop-assessment
 # Name: Jampani chandramouli
-# Colllege: Kalasalingam University
+# College: Kalasalingam University
 # Workshop Date: 10/02/2026
